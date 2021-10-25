@@ -1,4 +1,4 @@
-const express = require("express");
+/* const express = require("express");
 const router = express.Router();
 const rankData = require("../Models/data");
 const config = require("../config");
@@ -23,3 +23,4 @@ router.get("/getRanks", (req, res, next) => {
 });
 
 module.exports = router;
+ */
