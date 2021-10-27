@@ -1,4 +1,4 @@
-const express = require("express");
+/* const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const cors = require("cors");
@@ -32,3 +32,4 @@ mongoose
   .catch(function (err) {
     console.log(err);
   });
+ */

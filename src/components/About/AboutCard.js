@@ -29,9 +29,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Success is the journey, not a destination...."{" "}
+            "Success is the journey, not a destination....🏃‍♂️🏃‍♂️"{" "}
           </p>
-          <footer className="blockquote-footer">Marzuk</footer>
+          {/* <footer className="blockquote-footer">Marzuk</footer> */}
         </blockquote>
       </Card.Body>
     </Card>

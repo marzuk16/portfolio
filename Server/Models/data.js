@@ -1,4 +1,4 @@
-const mongooose = require("mongoose");
+/* const mongooose = require("mongoose");
 const schema = mongooose.Schema;
 
 const numLikes = schema({
@@ -11,3 +11,4 @@ const numLikes = schema({
 });
 
 module.exports = mongooose.model("likes", numLikes);
+ */

@@ -11,11 +11,16 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color-purple: #c770f0;
+  --imp-text-color-blue: #7d70f0;
 }
 
 .purple {
-  color: var(--imp-text-color) !important;
+  color: var(--imp-text-color-blue) !important;
+}
+
+.blue {
+  color: var(--imp-text-color-blue) !important;
 }
 
 /* --------- */
@@ -288,7 +293,7 @@ html {
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #cd5ff8 !important;
 }
 
 @media (max-width: 767px) {
