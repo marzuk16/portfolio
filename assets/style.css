@@ -51,11 +51,17 @@ a {
   text-decoration-color: white;
 }
 
-a:hover {
+a:not(.btn):hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
+}
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+  background-color: rgb(163, 163, 163);
 }
 
 .logo {
